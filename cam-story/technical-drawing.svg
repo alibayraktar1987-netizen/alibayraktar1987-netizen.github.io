@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 660">
+<rect width="840" height="660" fill="#07182b"/>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#18364b" stroke-width=".6"/></pattern><marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse"><path d="M8 4L0 1V7Z" fill="#8bbed2"/></marker></defs>
+<rect x="35" y="35" width="770" height="590" rx="3" fill="url(#grid)" stroke="#29495f"/>
+<g fill="none" stroke="#8de0ed" stroke-width="2">
+<rect x="180" y="150" width="480" height="360" rx="32"/><rect x="185" y="155" width="470" height="350" rx="28" stroke-width=".7"/>
+<rect x="280" y="235" width="280" height="190" rx="22"/>
+<circle cx="230" cy="205" r="22"/><circle cx="610" cy="205" r="22"/><circle cx="230" cy="455" r="22"/><circle cx="610" cy="455" r="22"/>
+</g>
+<g stroke="#4e8ba5" stroke-width="1" stroke-dasharray="15 5 3 5"><path d="M420 110V550M140 330H700M195 205H265M230 170V240M575 205H645M610 170V240M195 455H265M230 420V490M575 455H645M610 420V490"/></g>
+<g fill="none" stroke="#8bbed2" stroke-width="1"><path d="M180 515V578M660 515V578M170 150H100M170 510H100M285 230V198M555 230V198"/><path d="M180 568H660M110 150V510M285 210H555" marker-start="url(#arrow)" marker-end="url(#arrow)"/><path d="M625 190L690 116H750"/></g>
+<g fill="#badce8" font-family="Arial,sans-serif" font-size="20"><text x="420" y="595" text-anchor="middle">120</text><text x="92" y="330" text-anchor="middle" transform="rotate(-90 92 330)">90</text><text x="420" y="197" text-anchor="middle">70</text><text x="691" y="105">4 × Ø11</text></g>
+<g fill="#6e9cb5" font-family="Arial,sans-serif" font-size="12" letter-spacing="2"><text x="55" y="63">ABBA / CAD</text><text x="785" y="607" text-anchor="end">mm · TEMSİLİ GEOMETRİ</text></g>
+</svg>
